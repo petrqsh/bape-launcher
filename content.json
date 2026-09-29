@@ -9,6 +9,11 @@
       "name": "Zixera",
       "role": "Sr. Mod",
       "color": "#e1b823"
+    },
+    {
+      "name": "ItsEdwardoRo",
+      "role": "Manager",
+      "color": "#ff8d0a"
     }
   ],
   "news": [
@@ -17,6 +22,14 @@
       "title": "Bape Launcher",
       "date": "2026-09-29",
       "body": "Launcher in beta!"
+    }
+  ],
+  "gifts": [
+    {
+      "name": "ItsEdwardoRo",
+      "items": [
+        "bundle-inferno"
+      ]
     }
   ]
 }
