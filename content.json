@@ -1,0 +1,22 @@
+{
+  "staff": [
+    {
+      "name": "petrq_",
+      "role": "Owner",
+      "color": "#8b0000"
+    },
+    {
+      "name": "Zixera",
+      "role": "Sr. Mod",
+      "color": "#e1b823"
+    }
+  ],
+  "news": [
+    {
+      "version": "v1.0",
+      "title": "Bape Launcher",
+      "date": "2026-09-29",
+      "body": "Launcher in beta!"
+    }
+  ]
+}
