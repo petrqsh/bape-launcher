@@ -59,5 +59,27 @@
         "bundle-inferno"
       ]
     }
-  ]
+  ],
+  "announcement": {
+    "id": "1790696405427",
+    "text": "test",
+    "color": "#9584ff",
+    "link": "https://da"
+  },
+  "promos": [
+    {
+      "hash": "d725aaa6832cedbb0f75ffeb85d4ec6e2b92083660a9cdfb790fb7b7a517bba2",
+      "hint": "BA•••6",
+      "tokens": 100,
+      "items": [],
+      "expires": ""
+    }
+  ],
+  "event": {
+    "title": "test",
+    "sale": 25,
+    "saleType": "cape",
+    "doubleTokens": true,
+    "ends": ""
+  }
 }
