@@ -61,10 +61,10 @@
     }
   ],
   "announcement": {
-    "id": "1790696405427",
-    "text": "test",
-    "color": "#9584ff",
-    "link": "https://da"
+    "id": "1790779154076",
+    "text": "Deschiderea Bape Network in curand!",
+    "color": "#ff0000",
+    "link": "https://bape.pro/"
   },
   "promos": [
     {
@@ -76,10 +76,11 @@
     }
   ],
   "event": {
-    "title": "test",
-    "sale": 25,
-    "saleType": "cape",
-    "doubleTokens": true,
+    "title": "Bape Launcher - Release",
+    "sale": 50,
+    "saleType": "all",
+    "doubleTokens": false,
     "ends": ""
-  }
+  },
+  "servers": []
 }
