@@ -24,14 +24,19 @@
       "name": "St0rmM4str",
       "role": "DEV",
       "color": "#f5aa42"
+    },
+    {
+      "name": "saratele",
+      "role": "MANAGER",
+      "color": "#ffa200"
     }
   ],
   "news": [
     {
-      "version": "v1.0",
-      "title": "Bape Launcher",
-      "date": "2026-09-29",
-      "body": "Launcher in beta!"
+      "version": "v.1.3.4",
+      "title": "Update",
+      "date": "2026-10-14",
+      "body": "- Sistem de Friends\n- Sistem de skinuri direct din launcher\n- Bundle\"qsh\""
     }
   ],
   "gifts": [
