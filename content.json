@@ -41,12 +41,6 @@
   ],
   "gifts": [
     {
-      "name": "ItsEdwardoRo",
-      "items": [
-        "bundle-inferno"
-      ]
-    },
-    {
       "name": "xXviperXx",
       "items": [
         "all"
@@ -66,6 +60,12 @@
     },
     {
       "name": "saratele",
+      "items": [
+        "all"
+      ]
+    },
+    {
+      "name": "ItsEdwardoRo",
       "items": [
         "all"
       ]
